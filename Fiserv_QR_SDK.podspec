@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
   s.version          = '1.0.0'
   s.summary          = 'SDK para pagos QR'
   s.description      = 'Un SDK para integrar pagos QR con cámara, encriptación y más.'
+  s.homepage         = 'https://github.com/Ariel-Scarafia/SDK_Test.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'TuNombre' => 'tu@email.com' }
   s.source           = { :git => 'https://github.com/Ariel-Scarafia/SDK_Test.git', :tag => s.version.to_s }
